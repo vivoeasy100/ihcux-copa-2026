@@ -65,3 +65,5 @@ O design foi validado com base nos seguintes pilares (conforme documentado no pr
 **Professor:** Daniel Henrique Matos de Paiva  
 **Instituição:** Centro Universitário UNA  
 **Disciplina:** Interação Humano Computador e UX
+<img width="1536" height="1024" alt="CopaNaMão," src="https://github.com/user-attachments/assets/4d1f6b42-4fc4-4a5b-b4e5-8b37ab799232" />
+[CopaNaMão,.pdf](https://github.com/user-attachments/files/27103633/CopaNaMao.pdf)
